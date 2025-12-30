@@ -7,7 +7,6 @@ pipeline {
     }
     environment {
         COURSE = "Jenkins"
-        appVersion = ""
         ACC_ID = "347539192046"
         PROJECT = "roboshop"
         COMPONENT = "catalogue"
